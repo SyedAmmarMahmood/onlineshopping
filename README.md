@@ -1,7 +1,4 @@
 <html>
-<title>
-	README
-</title>
 <body>
 <h2>Opening Project Step</h2><br>
  
